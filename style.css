@@ -36,6 +36,10 @@ p{
     margin-right: auto;
     padding: 0 20px;
 }
+.card:hover{
+    background-color: lightblue;
+    transform: scale(1.1);
+}
 .card p{
     width: 99%;
 }
